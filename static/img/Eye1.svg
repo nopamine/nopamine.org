@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="1649px" height="748px" viewBox="0 0 1649 748" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <!-- Generator: Sketch 52.4 (67378) - http://www.bohemiancoding.com/sketch -->
+    <title>Motivation Eye 1</title>
+    <desc>Created with Sketch.</desc>
+    <g id="Motivation-Eye-1" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <path d="M648.256926,658 C805.247691,658 805.247691,90 648.256926,90 C491.266161,90 364,217.151131 364,374 C364,530.848869 491.266161,658 648.256926,658 Z" id="L-Globe-Shadow" fill-opacity="0.26" fill="#FFFFFF" fill-rule="nonzero" transform="translate(565.000000, 374.000000) scale(-1, 1) translate(-565.000000, -374.000000) "></path>
+        <path d="M503.256926,658 C660.247691,658 660.247691,90 503.256926,90 C346.266161,90 219,217.151131 219,374 C219,530.848869 346.266161,658 503.256926,658 Z" id="L-Globe" fill="#FFFFFF" fill-rule="nonzero"></path>
+        <path d="M543,497 C610.931024,497 652.306913,441.931024 652.306913,374 C652.306913,306.068976 610.931024,251 543,251 C475.068976,251 420,306.068976 420,374 C420,441.931024 475.068976,497 543,497 Z" id="L-Iris" fill="#0050FF" fill-rule="nonzero"></path>
+        <path d="M559.5,427 C589.047234,427 610.44564,403.047234 610.44564,373.5 C610.44564,343.952766 589.047234,320 559.5,320 C529.952766,320 506,343.952766 506,373.5 C506,403.047234 529.952766,427 559.5,427 Z" id="L-Lens" fill="#000000" fill-rule="nonzero"></path>
+    </g>
+</svg>
