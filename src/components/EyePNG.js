@@ -4,7 +4,6 @@ import React, { PureComponent } from 'react'
 import EyeGlobe from '../images/eye.globe.png'
 import EyeIris from '../images/eye.iris.png'
 import EyeLens from '../images/eye.lens.png'
-import Like from '../images/Like.png'
 
 import styled, { keyframes } from 'styled-components'
 
