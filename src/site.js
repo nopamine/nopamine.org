@@ -67,6 +67,8 @@ export const pages = [{
 }, {
   pageTitle: 'Code',
   pagePath: 'https://github.com/nopamine',
+  bgColor: 'white',
+  textColor: theme.colors.blue,
   isExternal: true
 }]
 

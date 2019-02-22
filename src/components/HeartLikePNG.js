@@ -1,7 +1,7 @@
 import React, { PureComponent } from 'react'
 
 import Heart from '../images/heart.png'
-import Like from '../images/Like.png'
+import Like from '../images/like.png'
 
 import styled, { keyframes } from 'styled-components'
 

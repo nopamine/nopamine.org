@@ -14,7 +14,7 @@ export const Main = styled.main`
   ${width}
 `
 export const Layout = ({ location, children }) => {
-  const { bgColor, textColor } = pages.find( ({pagePath}) => pagePath.indexOf(location.pathname.split('/')[1]) !== -1)
+  const { bgColor, textColor } = pages.find( ({pagePath}) => pagePath.indexOf(location.pathname.split('/')[1]) !== -1) || pages[0]
 
   return (
     <ThemeProvider theme={theme}>
